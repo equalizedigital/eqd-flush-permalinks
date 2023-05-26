@@ -1,14 +1,14 @@
-# RSP Flush Permalinks WordPress Plugin
+# Equalize Digital Flush Permalinks WordPress Plugin
 
 ## Description
-RSP Flush Permalinks is a WordPress plugin designed to schedule a WordPress cron job that flushes permalinks every five minutes. This helps in maintaining clean permalinks and prevents errors related to permalink structures.
+Equalize Digital Flush Permalinks is a WordPress plugin designed to schedule a WordPress cron job that flushes permalinks every five minutes. This helps in maintaining clean permalinks and prevents errors related to permalink structures.
 
 ## Installation
 
 1. Download the plugin files and extract them into a directory on your computer.
 2. In the WordPress Admin dashboard, go to "Plugins -> Add New -> Upload Plugin".
 3. Click "Choose File", select the plugin files you downloaded and click "Install Now".
-4. After the plugin is installed, click "Activate" to start using the RSP Flush Permalinks plugin.
+4. After the plugin is installed, click "Activate" to start using the Equalize Digital Flush Permalinks plugin.
 
 ## Usage
 
