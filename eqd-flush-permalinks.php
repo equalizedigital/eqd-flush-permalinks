@@ -4,7 +4,7 @@ Plugin Name: Equalize Digital Flush Permalinks
 Plugin URI:  https://equalizedigital.com/
 Description: This plugin is used to schedule a WordPress cron job that flushes permalinks every five minutes.
 Version:     1.0
-Author:      Your Name
+Author:      Equalize Digital
 Author URI:  https://equalizedigital.com/
 License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
