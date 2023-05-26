@@ -66,4 +66,4 @@ class EQD_Flush_Permalinks {
 	}
 }
 
-$EQD_Flush_Permalinks = new EQD_Flush_Permalinks();
+$eqd_flush_permalinks = new EQD_Flush_Permalinks();
